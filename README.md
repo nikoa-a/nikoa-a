@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 
-I'm a 22-year-old student of Information and Communication Technology at Metropolia University of Applied Sciences, specializing in software development with an expected graduation in 2024.
+I'm a freshly graduated Software Engineer from Metropolia University of Applied Sciences 🎓, where I specialized in software development. I'm currently looking for opportunities to kickstart my career and contribute to exciting projects.
 
 ---
 ### Languages and Tools
